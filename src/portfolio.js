@@ -7,25 +7,25 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Hannah's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I have a creative mindset, open to diverse problem-solving approaches, always ready to assist and contribute with flexibility and resourcefulness. I aim to be the go-to problem solver and am actively seeking a position that will advance my professional development",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Ajayi Anuoluwapo Hannah Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Ajayi Anuoluwapo Hannah",
+  logo_name: "Hannah",
+  nickname: "Hannah",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I have a creative mindset, open to diverse problem-solving approaches, always ready to assist and contribute with flexibility and resourcefulness. I aim to be the go-to problem solver and am actively seeking a position that will advance my professional development",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://docs.google.com/document/d/186hLQF_d01X2t2D6LEcSVOwv4Jyxh8BX/edit?usp=sharing&ouid=105453869587238692489&rtpof=true&sd=true",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/ashutosh1919",
 };
