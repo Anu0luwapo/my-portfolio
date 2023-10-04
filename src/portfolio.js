@@ -87,202 +87,127 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Setting strategy and roadmapping",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Developing and for setting your product's vision and strategic direction",
+        "⚡ Experience in Outline goals and initiatives",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "Click up",
+          fontAwesomeClassname: "simple-icons:clickup",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "AHA",
+          fontAwesomeClassname: "logos:aha",
           style: {
             backgroundColor: "white",
             color: "#D00000",
           },
         },
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "Amplitude",
+          fontAwesomeClassname: "logos:amplitude",
           style: {
             backgroundColor: "transparent",
           },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
         },
       ],
     },
     {
-      title: "Full Stack Development",
+      title: " Defining releases",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building and translating product strategy into planned work",
+        "⚡ Developing and defining what will built and when it be will launch it",
+        "⚡ Creating development methodology",
       ],
       softwareSkills: [
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          skillName: "Jira",
+          fontAwesomeClassname: "logos:jira",
           style: {
             color: "#E34F26",
           },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
+          skillName: "Survey Monkey",
+          fontAwesomeClassname: "simple-icons:surveymonkey",
           style: {
             color: "#1572B6",
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          skillName: "TypeForm",
+          fontAwesomeClassname: "logos:typeform",
           style: {
             color: "#CC6699",
           },
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "Azure",
+          fontAwesomeClassname: "devicon-plain:azure",
           style: {
             backgroundColor: "#000000",
             color: "#F7DF1E",
           },
         },
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "Rally",
+          fontAwesomeClassname: "game-icons:rally-the-troops",
           style: {
             color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
           },
         },
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Evaluating ideas",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Experience in crowdsourcing, developing, and curating ideas that will deliver value to customers",
+        "⚡ Determining which ideas should be promoted to the backlog and propelling product strategy forward",
+        "⚡ Ensure that requests are integrated into the product planning and development process",
+        "⚡ Communicating the status of ideas back to your customers, partners, and internal teammates who submitted them",
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
+          skillName: "Domo",
+          fontAwesomeClassname: "iconoir:domotic-issue",
           style: {
             color: "#4285F4",
           },
         },
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "Google Analytics",
+          fontAwesomeClassname: "simple-icons:googleanalytics",
           style: {
             color: "#FF9900",
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "Gotomeeting",
+          fontAwesomeClassname: "simple-icons:gotomeeting",
           style: {
             color: "#0089D6",
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
+          skillName: "Zoom",
+          fontAwesomeClassname: "simple-icons:zoom",
           style: {
             color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
           },
         },
       ],
     },
     {
-      title: "UI/UX Design",
+      title: "Product Design",
       fileName: "DesignImg",
       skills: [
         "⚡ Designing highly attractive user interface for mobile and web applications",
@@ -380,30 +305,17 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "University of Ilorin",
+      subtitle: "B.ED in Educational Management ",
+      logo_path: "unilorin_4.png",
+      alt_name: "Unilorin logo",
+      duration: "2017 - 2022",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I have a background in educational management, and while pursuing this field, I acquired a diverse set of skills that I believe are highly transferable and advantageous in the realm of product management.",
+        "⚡ Apart from this, I have done courses on Product Analytics, Product Led Growth, Product strategy, Roadmapping and Data Analysis.",
+        "⚡ I graduated with Second Class Upper honors and was honored with an accolade reserved for the top 10% of college students.",
       ],
-      website_link: "http://iiitk.ac.in",
-    },
-    {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
-      descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-      ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://www.unilorin.edu.ng/",
     },
   ],
 };
